@@ -73,4 +73,4 @@ function removeElementFromEndOfArray(){
   myArray = ["foo", ...myArray];
   return myArray
 }
->>>>>>> 77b5fb9b46686129a6debdffcd5138e720405434
+

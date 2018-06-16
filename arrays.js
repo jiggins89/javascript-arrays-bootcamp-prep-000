@@ -52,25 +52,3 @@ function removeElementFromEndOfArray(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
-  myArray = ["foo", ...myArray];
-  return myArray
-}
-

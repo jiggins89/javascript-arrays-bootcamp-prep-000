@@ -7,7 +7,6 @@ function addElementToBeginningOfArray() {
 
 function destructivelyAddElementToBeginningOfArray (){
   var myArray = [1];
-<<<<<<< HEAD
   x = 'foo'
   myArray = [x, ...myArray];
   return myArray
